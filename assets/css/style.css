@@ -13,9 +13,6 @@ body {
 .header h1 {
     display: inline-block;
     font-size: 48px;
-}
-
-.header h1 .seo {
     color: #d9dcd6;
 }
 
@@ -47,8 +44,13 @@ p {
     margin-bottom: 25px;
     background-image: url("../images/digital-marketing-meeting.jpg");
     background-size: cover;
-    background-position: center;
+    background-position: center;    
 }
+
+.float-left{float: left;
+    margin-right: 25px;
+}
+
 
 .float-left {
     float: left;
