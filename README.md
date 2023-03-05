@@ -25,7 +25,6 @@ WHEN I view the heading attributes
 THEN they fall in sequential order
 WHEN I view the title element
 THEN I find a concise, descriptive title
-
 ## Links
 Link to code repository https://github.com/osayenko0315/Search-engine-optimization
 
