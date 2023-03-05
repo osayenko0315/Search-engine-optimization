@@ -1,8 +1,8 @@
 # Search-engine-optimization
 
 ## Task Completed
-   HTML elements were replaced semantic HTML elements
-   Discriptive title added
+   1)HTML elements were replaced semantic HTML elements
+   2)Discriptive title added
 
 ## Screenshot
 
