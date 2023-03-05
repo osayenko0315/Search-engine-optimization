@@ -2,7 +2,7 @@
 
 ## Task Completed
 
-1. TML elements were replaced semantic HTML elements
+1. HTML elements were replaced semantic HTML elements
 2. Discriptive title added
 3. Added semantic tags 
 
