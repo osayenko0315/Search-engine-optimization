@@ -31,6 +31,6 @@
 
 ## Links
 * Link to code repository https://github.com/osayenko0315/Search-engine-optimization
-* Link to published page
+* Link to published page  https://osayenko0315.github.io/Search-engine-optimization/
 
 
